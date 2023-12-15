@@ -80,7 +80,7 @@ const yarnBall = {
   h: 48,
   x: (window.innerWidth - 48) / 2,
   y: (window.innerHeight - 48) / 2,
-  speed: 10,
+  speed: 5,
   directionX: 1,
   directionY: 1,
   image: new Image(),

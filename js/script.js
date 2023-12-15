@@ -131,7 +131,7 @@ const yarnBall = {
   },
 
   increaseSpeed: function () {
-    this.speed += 5;
+    this.speed += 1;
   },
 
   _move: function () {

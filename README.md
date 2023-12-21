@@ -1,5 +1,7 @@
 # CAT PONG
 
+<a href="https://daiannecordeiro.github.io/cat-pong/" target="_blank" rel="noopener noreferrer">JOGAR</a>
+
 Este é um simples jogo de "Cat Pong" desenvolvido em HTML5, CSS3 e JavaScript. O jogo é baseado no clássico jogo Pong, mas com uma temática de gatos.
 
 # Instruções de Jogo:
